@@ -55,6 +55,19 @@ public class Text
         text[line] = firstPart + newText + secPart;
     }
 
+    public void DeleteText(int line, int index, int amountOfSymbols)
+    {
+        string lineToChange = text[line];
+        string firstPart = Substring(lineToChange, 0, index);
+        string secondPart = Substring(lineToChange, index + amountOfSymbols, lineToChange.Length);
+        text[line] = firstPart + secondPart;
+    }
+
+    public string Copy(int line, int index, int amountOfSymbols)
+    {
+        return Substring(text[line], index, index + amountOfSymbols);
+    }
+
     public void Save(string path)
     {
         StreamWriter sw = new StreamWriter(path);
