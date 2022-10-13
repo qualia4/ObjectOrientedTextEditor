@@ -1,0 +1,15 @@
+/Users/qualiaaa/RiderProjects/ObjectOrientedTextEditor/ObjectOrientedTextEditor/bin/Debug/net6.0/ObjectOrientedTextEditor
+/Users/qualiaaa/RiderProjects/ObjectOrientedTextEditor/ObjectOrientedTextEditor/bin/Debug/net6.0/ObjectOrientedTextEditor.deps.json
+/Users/qualiaaa/RiderProjects/ObjectOrientedTextEditor/ObjectOrientedTextEditor/bin/Debug/net6.0/ObjectOrientedTextEditor.runtimeconfig.json
+/Users/qualiaaa/RiderProjects/ObjectOrientedTextEditor/ObjectOrientedTextEditor/bin/Debug/net6.0/ObjectOrientedTextEditor.dll
+/Users/qualiaaa/RiderProjects/ObjectOrientedTextEditor/ObjectOrientedTextEditor/bin/Debug/net6.0/ref/ObjectOrientedTextEditor.dll
+/Users/qualiaaa/RiderProjects/ObjectOrientedTextEditor/ObjectOrientedTextEditor/bin/Debug/net6.0/ObjectOrientedTextEditor.pdb
+/Users/qualiaaa/RiderProjects/ObjectOrientedTextEditor/ObjectOrientedTextEditor/obj/Debug/net6.0/ObjectOrientedTextEditor.csproj.AssemblyReference.cache
+/Users/qualiaaa/RiderProjects/ObjectOrientedTextEditor/ObjectOrientedTextEditor/obj/Debug/net6.0/ObjectOrientedTextEditor.GeneratedMSBuildEditorConfig.editorconfig
+/Users/qualiaaa/RiderProjects/ObjectOrientedTextEditor/ObjectOrientedTextEditor/obj/Debug/net6.0/ObjectOrientedTextEditor.AssemblyInfoInputs.cache
+/Users/qualiaaa/RiderProjects/ObjectOrientedTextEditor/ObjectOrientedTextEditor/obj/Debug/net6.0/ObjectOrientedTextEditor.AssemblyInfo.cs
+/Users/qualiaaa/RiderProjects/ObjectOrientedTextEditor/ObjectOrientedTextEditor/obj/Debug/net6.0/ObjectOrientedTextEditor.csproj.CoreCompileInputs.cache
+/Users/qualiaaa/RiderProjects/ObjectOrientedTextEditor/ObjectOrientedTextEditor/obj/Debug/net6.0/ObjectOrientedTextEditor.dll
+/Users/qualiaaa/RiderProjects/ObjectOrientedTextEditor/ObjectOrientedTextEditor/obj/Debug/net6.0/ref/ObjectOrientedTextEditor.dll
+/Users/qualiaaa/RiderProjects/ObjectOrientedTextEditor/ObjectOrientedTextEditor/obj/Debug/net6.0/ObjectOrientedTextEditor.pdb
+/Users/qualiaaa/RiderProjects/ObjectOrientedTextEditor/ObjectOrientedTextEditor/obj/Debug/net6.0/ObjectOrientedTextEditor.genruntimeconfig.cache
