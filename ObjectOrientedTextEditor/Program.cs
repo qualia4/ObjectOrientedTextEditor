@@ -109,5 +109,17 @@ while (toContinue)
             text.DeleteText(line, index, length);
             break;
         }
+        case "14":
+        {
+            Console.WriteLine("Enter coordinates(line and index):");
+            var coordinates = Console.ReadLine().Split(" ");
+            var line = int.Parse(coordinates[0]);
+            var index = int.Parse(coordinates[1]);
+            Console.WriteLine("Enter text to insert:");
+            var textToInsert = Console.ReadLine();
+            text.DeleteText(line, index, textToInsert.Length);
+            text.Insert(line, index, textToInsert);
+            break;
+        }
     }
 }
